@@ -1,1 +1,0 @@
-# lgulartem.github.io
