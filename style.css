@@ -4,6 +4,9 @@ body {
       padding: 0;
       }
 ​
+img {
+    width: 50%;  
+}
 header {
       background-color: #333333;
-       }
+      }
